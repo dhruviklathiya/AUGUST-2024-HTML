@@ -1,0 +1,20 @@
+.font_family {
+    /* color: rgb(17, 118, 143); */
+    /* color: #962eb3; */
+    /* font-size: 50px; */
+    text-align: justify;
+    /* text-decoration: line-through; */
+    font-weight: 500;
+    font-family: cursive;
+    font-style: italic;
+    font-style: oblique;
+    line-height: 25px;
+    text-transform: capitalize;
+    letter-spacing: 1px;
+    word-spacing: 1px;
+    text-indent: 100px;
+}
+
+a {
+    text-decoration: none;
+}

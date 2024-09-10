@@ -1,0 +1,37 @@
+/* SELECTORS OF CSS */
+/* id */
+/* class */
+/* tag */
+/* h1 {
+    color: purple;
+}
+
+h2 {
+    color: purple;
+} */
+/* h1,
+h2 {
+    color: purple;
+} */
+
+/* Select class from html */
+
+.unique2 {
+    font-size: 50px;
+    color: coral;
+}
+
+.unique {
+    color: purple;
+}
+
+h1 {
+    color: yellow;
+}
+
+/* id selector */
+#third {
+    color: blueviolet;
+}
+
+/* Child selector & more */
